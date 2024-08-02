@@ -9,7 +9,7 @@ import PrimeVue from 'primevue/config';
 import Aura from '@primevue/themes/aura';
 
 liff
-    .init({ liffId: '2005903938-1NVll7Zy' })
+    .init({ liffId: '2005952709-MeXVGDv9' })
     .then(() => {
         // if (!liff.isInClient()) {
         //     alert('Please open this application in LINE.');
